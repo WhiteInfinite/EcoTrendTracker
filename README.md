@@ -1,5 +1,5 @@
 
-# Eco Trend Tracker: Monitor Your Energy Usage and Costs 
+# EcoTrend Tracker: Monitor Your Energy Usage and Costs 
 
 
 ## Introduction:
