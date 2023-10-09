@@ -1,11 +1,12 @@
-#Energy Tracker: Monitor Your Energy Usage and Costs
+
+# Energy Tracker: Monitor Your Energy Usage and Costs 
 
 
-Introduction:
+## Introduction:
 
 Welcome to Energy Tracker, your all-in-one solution for efficiently managing your energy requirements, consumption, and expenditures. With Energy Tracker, you can seamlessly monitor and analyze your energy usage from various sources, such as solar power and the electric grid. Take control of your energy consumption and reduce your energy bills while contributing to a sustainable future.
 
-Key Features:
+## Key Features:
 
 1. Multi-Source Energy Tracking:
    - Energy Tracker allows you to input and monitor your energy consumption from multiple sources, including solar panels and the electric grid. It provides a holistic view of your energy profile.
@@ -28,7 +29,7 @@ Key Features:
 7. User-Friendly Interface:
    - Our intuitive interface makes it easy for users of all levels to navigate and manage their energy data. No technical expertise required!
 
-Getting Started:
+## Getting Started:
 
 1. Sign Up: Create your Energy Tracker account to get started. Provide basic information about your energy sources and budget goals.
 
@@ -42,6 +43,6 @@ Getting Started:
 
 6. Save Money and Energy: With Energy Tracker, you'll have the insights and tools needed to save both energy and money while contributing to a greener future.
 
-Conclusion:
+## Conclusion:
 
 Energy Tracker empowers you to take control of your energy consumption and costs. Whether you're a homeowner, a business owner, or simply looking to make smarter energy choices, our platform provides the tools and insights you need. Start your journey towards efficient, cost-effective, and sustainable energy management today. Join Energy Tracker and make every watt count
