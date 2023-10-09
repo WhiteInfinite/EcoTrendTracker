@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoTrendTracker</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=VT323&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>
+            EcoTrendTracker
+        </h1>
+    </header>
+    <div class="mid">
+        <div class="chart-container">
+            <div class="chart1">
+                <canvas id="lineChart" height="400" width="900"></canvas>
+                <p class="line1">Energy Consumption as compared to Solar Energy generated</p>
+            </div>
+            <div class="chart2">
+                <canvas id="pieChart" height="600" width="600"></canvas>
+                
+           
+            </div>
+        </div>
+    </div>
+    <div id="prediction">
+        <button id="predictionButton">Predict Next Day</button>
+        <div id="chartContainerPrediction">
+            <canvas id="myChartPrediction" height="400" width="900"></canvas>
+        </div>
+
+    <div id="cost">
+        <button id="costButton">Watch Cost Data</button>
+            <div id="chartContainerCost">
+                <canvas id="myChartCost" height="400" width="900"></canvas>
+    </div>
+
+
+
+    </div>
+   <h1>Enter Energy Consumption Details in KWH:</h1>
+    <div>
+        <label for="solarInput">Solar Input:</label>
+        <input type="number" id="solarInput">
+    </div>
+    <div>
+        <label for="fridge">Fridge Consumption:</label>
+        <input type="number" id="fridge">
+    </div>
+    <div>
+        <label for="light">Light Consumption:</label>
+        <input type="number" id="light">
+    </div>
+    <div>
+        <label for="fan">Fan Consumption:</label>
+        <input type="number" id="fan">
+    </div>
+    <div>
+        <label for="tv">TV Consumption:</label>
+        <input type="number" id="tv">
+    </div>
+    <div>
+        <label for="ac">AC Consumption:</label>
+        <input type="number" id="ac">
+    </div>
+    <button onclick="storeValues()">Store Values</button>
+    
+    
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
